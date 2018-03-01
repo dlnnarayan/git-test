@@ -24,7 +24,7 @@
 	s
 
 # File marks:
-'0  1  37  ~/f1
+'0  1  0  ~/f1
 '1  2  8  ~/f1
 '2  1  18  ~/lucky/f12
 '3  1  0  ~/lucky/add
@@ -32,7 +32,7 @@
 '5  4  0  ~/f1
 
 # Jumplist (newest first):
--'  1  37  ~/f1
+-'  1  0  ~/f1
 -'  2  8  ~/f1
 -'  1  18  ~/lucky/f12
 -'  1  0  ~/lucky/add
@@ -80,11 +80,55 @@
 -'  1  6  ~/lucky/f123
 -'  1  6  ~/lucky/f123
 -'  1  6  ~/lucky/f123
+-'  1  18  ~/lucky/f12
+-'  1  0  ~/lucky/add
+-'  1  6  ~/lucky/f123
+-'  1  6  ~/lucky/f123
+-'  1  6  ~/lucky/f123
+-'  1  6  ~/lucky/f123
+-'  1  0  ~/lucky/add
+-'  1  6  ~/lucky/f123
+-'  1  6  ~/lucky/f123
+-'  1  6  ~/lucky/f123
+-'  1  6  ~/lucky/f123
+-'  1  18  ~/lucky/f12
+-'  1  0  ~/lucky/add
+-'  1  6  ~/lucky/f123
+-'  1  6  ~/lucky/f123
+-'  1  6  ~/lucky/f123
+-'  1  6  ~/lucky/f123
+-'  1  0  ~/lucky/add
+-'  1  6  ~/lucky/f123
+-'  1  6  ~/lucky/f123
+-'  1  6  ~/lucky/f123
+-'  1  6  ~/lucky/f123
+-'  1  18  ~/lucky/f12
+-'  1  0  ~/lucky/add
+-'  1  6  ~/lucky/f123
+-'  1  6  ~/lucky/f123
+-'  1  6  ~/lucky/f123
+-'  1  6  ~/lucky/f123
+-'  1  0  ~/lucky/add
+-'  1  6  ~/lucky/f123
+-'  1  6  ~/lucky/f123
+-'  1  6  ~/lucky/f123
+-'  1  6  ~/lucky/f123
+-'  1  18  ~/lucky/f12
+-'  1  0  ~/lucky/add
+-'  1  6  ~/lucky/f123
+-'  1  6  ~/lucky/f123
+-'  1  6  ~/lucky/f123
+-'  1  6  ~/lucky/f123
+-'  1  0  ~/lucky/add
+-'  1  6  ~/lucky/f123
+-'  1  6  ~/lucky/f123
+-'  1  6  ~/lucky/f123
+-'  1  6  ~/lucky/f123
 
 # History of marks within files (newest to oldest):
 
 > ~/f1
-	"	1	37
+	"	1	0
 	^	1	38
 	.	1	37
 	+	3	7
