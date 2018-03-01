@@ -24,14 +24,17 @@
 	s
 
 # File marks:
-'0  1  0  ~/f1
-'1  2  8  ~/f1
-'2  1  18  ~/lucky/f12
-'3  1  0  ~/lucky/add
-'4  1  6  ~/lucky/f123
-'5  4  0  ~/f1
+'0  2  11  ~/f123
+'1  1  0  ~/f1
+'2  2  8  ~/f1
+'3  1  18  ~/lucky/f12
+'4  1  0  ~/lucky/add
+'5  1  6  ~/lucky/f123
+'6  4  0  ~/f1
 
 # Jumplist (newest first):
+-'  2  11  ~/f123
+-'  1  0  ~/f123
 -'  1  0  ~/f1
 -'  2  8  ~/f1
 -'  1  18  ~/lucky/f12
@@ -124,8 +127,19 @@
 -'  1  6  ~/lucky/f123
 -'  1  6  ~/lucky/f123
 -'  1  6  ~/lucky/f123
+-'  1  0  ~/f1
+-'  2  8  ~/f1
+-'  1  18  ~/lucky/f12
+-'  1  0  ~/lucky/add
+-'  1  6  ~/lucky/f123
 
 # History of marks within files (newest to oldest):
+
+> ~/f123
+	"	2	11
+	^	2	12
+	.	2	11
+	+	2	11
 
 > ~/f1
 	"	1	0
