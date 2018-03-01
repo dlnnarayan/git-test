@@ -1,0 +1,2 @@
+WARN  2018-03-01 05:21:56 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: Can't open directory
+ERROR 2018-03-01 06:01:19 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
